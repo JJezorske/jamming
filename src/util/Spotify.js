@@ -1,5 +1,5 @@
 const clientID = '79ef062407d24a658bc4386c3a643386';
-const redirectURI = "http://snobbish-pan.surge.sh";
+const redirectURI = "https://stoic-nobel-dd6261.netlify.app/";
 let accessToken;
 
 const Spotify = {
